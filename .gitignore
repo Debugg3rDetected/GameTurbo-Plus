@@ -1,0 +1,18 @@
+# Logs
+*.log
+/tmp/GameTurbo-Plus.log
+/tmp/GameTurbo-Background.log
+/tmp/gameturbo.lock
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Editor Directories
+.idea/
+.vscode/
+*.swp
+
+# Local Backups
+*.bak
+*.old
